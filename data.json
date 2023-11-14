@@ -1,0 +1,277 @@
+[
+    {
+        "topic": "dapr",
+        "participants": [
+            {
+                "name": "Josh",
+                "interest": 0.7,
+                "skill": 0
+            },
+            {
+                "name": "Tilo",
+                "interest": 0.7,
+                "skill": 0
+            },
+            {
+                "name": "Gero",
+                "interest": 0.2,
+                "skill": 0
+            },
+            {
+                "name": "Ludi",
+                "interest": 0.9,
+                "skill": 0.1
+            }
+        ]
+    },
+    {
+        "topic": "nats",
+        "participants": [
+            {
+                "name": "Josh",
+                "interest": 0.35,
+                "skill": 0
+            },
+            {
+                "name": "Tilo",
+                "interest": 0.9,
+                "skill": 0
+            },
+            {
+                "name": "Gero",
+                "interest": 0.2,
+                "skill": 0
+            },
+            {
+                "name": "Ludi",
+                "interest": 0.7,
+                "skill": 0.1
+            }
+        ]
+    },
+    {
+        "topic": "rust",
+        "participants": [
+            {
+                "name": "Josh",
+                "interest": 0.5,
+                "skill": 0
+            },
+            {
+                "name": "Tilo",
+                "interest": 0.5,
+                "skill": 0
+            },
+            {
+                "name": "Gero",
+                "interest": 0.5,
+                "skill": 0
+            },
+            {
+                "name": "Ludi",
+                "interest": 0.8,
+                "skill": 0.25
+            }
+        ]
+    },
+    {
+        "topic": "surrealdb",
+        "participants": [
+            {
+                "name": "Josh",
+                "interest": 0.5,
+                "skill": 0
+            },
+            {
+                "name": "Tilo",
+                "interest": 0.5,
+                "skill": 0
+            },
+            {
+                "name": "Gero",
+                "interest": 0.5,
+                "skill": 0
+            },
+            {
+                "name": "Ludi",
+                "interest": 0.7,
+                "skill": 0
+            }
+        ]
+    },
+    {
+        "topic": "zig",
+        "participants": [
+            {
+                "name": "Josh",
+                "interest": 0.5,
+                "skill": 0
+            },
+            {
+                "name": "Tilo",
+                "interest": 0.5,
+                "skill": 0
+            },
+            {
+                "name": "Gero",
+                "interest": 0.8,
+                "skill": 0
+            },
+            {
+                "name": "Ludi",
+                "interest": 0.75,
+                "skill": 0.15
+            }
+        ]
+    },
+    {
+        "topic": "pcileech",
+        "participants": [
+            {
+                "name": "Josh",
+                "interest": 0.4,
+                "skill": 0
+            },
+            {
+                "name": "Tilo",
+                "interest": 0.4,
+                "skill": 0
+            },
+            {
+                "name": "Gero",
+                "interest": 0.8,
+                "skill": 0.75
+            },
+            {
+                "name": "Ludi",
+                "interest": 0.25,
+                "skill": 0
+            }
+        ]
+    },
+    {
+        "topic": "atmegalufa",
+        "participants": [
+            {
+                "name": "Josh",
+                "interest": 0.45,
+                "skill": 0
+            },
+            {
+                "name": "Tilo",
+                "interest": 0.45,
+                "skill": 0
+            },
+            {
+                "name": "Gero",
+                "interest": 1,
+                "skill": 0.1
+            },
+            {
+                "name": "Ludi",
+                "interest": 0.2,
+                "skill": 0
+            }
+        ]
+    },
+    {
+        "topic": "rancher",
+        "participants": [
+            {
+                "name": "Josh",
+                "interest": 0.8,
+                "skill": 0.4
+            },
+            {
+                "name": "Tilo",
+                "interest": 0.6,
+                "skill": 0
+            },
+            {
+                "name": "Gero",
+                "interest": 0.5,
+                "skill": 0
+            },
+            {
+                "name": "Ludi",
+                "interest": 0.6,
+                "skill": 0.2
+            }
+        ]
+    },
+    {
+        "topic": "react",
+        "participants": [
+            {
+                "name": "Josh",
+                "interest": 0,
+                "skill": 0
+            },
+            {
+                "name": "Tilo",
+                "interest": 0.9,
+                "skill": 0
+            },
+            {
+                "name": "Gero",
+                "interest": 0,
+                "skill": 0
+            },
+            {
+                "name": "Ludi",
+                "interest": 0,
+                "skill": 0
+            }
+        ]
+    },
+    {
+        "topic": "angular",
+        "participants": [
+            {
+                "name": "Josh",
+                "interest": 0,
+                "skill": 0
+            },
+            {
+                "name": "Tilo",
+                "interest": 0.8,
+                "skill": 0.15
+            },
+            {
+                "name": "Gero",
+                "interest": 0,
+                "skill": 0
+            },
+            {
+                "name": "Ludi",
+                "interest": 0,
+                "skill": 0
+            }
+        ]
+    },
+    {
+        "topic": "vue",
+        "participants": [
+            {
+                "name": "Josh",
+                "interest": 0,
+                "skill": 0
+            },
+            {
+                "name": "Tilo",
+                "interest": 0.1,
+                "skill": 0
+            },
+            {
+                "name": "Gero",
+                "interest": 0,
+                "skill": 0
+            },
+            {
+                "name": "Ludi",
+                "interest": 0,
+                "skill": 0
+            }
+        ]
+    }
+]
