@@ -22,7 +22,7 @@
 
 - **Teilnehmerbewertungen**:
 
-![Bewertungen für dapr](graphics/dapr.png)
+![Bewertungen für dapr](graphic/dapr.png)
 
 ## NATS (Messaging-System)
 
@@ -46,7 +46,7 @@
 
 - **Teilnehmerbewertungen**:
 
-![Bewertungen für nats](graphics/nats.png)
+![Bewertungen für nats](graphic/nats.png)
 
 ## Rust (Programmiersprache)
 
@@ -72,7 +72,7 @@
 
 - **Teilnehmerbewertungen**:
 
-![Bewertungen für rust](graphics/rust.png)
+![Bewertungen für rust](graphic/rust.png)
 
 ## SurrealDB (Datenbank)
 
@@ -96,7 +96,7 @@
 
 - **Teilnehmerbewertungen**:
 
-![Bewertungen für surrealdb](graphics/surrealdb.png)
+![Bewertungen für surrealdb](graphic/surrealdb.png)
 
 ## Zig (Programmiersprache)
 
@@ -119,7 +119,7 @@
 
 - **Teilnehmerbewertungen**:
 
-![Bewertungen für zig](graphics/zig.png)
+![Bewertungen für zig](graphic/zig.png)
 
 ## PCILeech (Memory Attack Software) für Pen Testing
 
@@ -143,7 +143,7 @@
 
 - **Teilnehmerbewertungen**:
 
-![Bewertungen für pcileech](graphics/pcileech.png)
+![Bewertungen für pcileech](graphic/pcileech.png)
 
 ## ATmega 16u2 Firmware entwickeln mit LUFA
 
@@ -167,7 +167,7 @@
 
 - **Teilnehmerbewertungen**:
 
-![Bewertungen für atmegalufa](graphics/atmegalufa.png)
+![Bewertungen für atmegalufa](graphic/atmegalufa.png)
 
 ## Rancher (Kubernetes Management Tool)
 
@@ -191,7 +191,7 @@
 
 - **Teilnehmerbewertungen**:
 
-![Bewertungen für rancher](graphics/rancher.png)
+![Bewertungen für rancher](graphic/rancher.png)
 
 ## React (JavaScript Frontend Framework)
 
@@ -215,7 +215,7 @@
 
 - **Teilnehmerbewertungen**:
 
-![Bewertungen für react](graphics/react.png)
+![Bewertungen für react](graphic/react.png)
 
 ## Angular (JavaScript Frontend Framework)
 
@@ -239,7 +239,7 @@
 
 - **Teilnehmerbewertungen**:
 
-![Bewertungen für angular](graphics/angular.png)
+![Bewertungen für angular](graphic/angular.png)
 
 ## Vue (JavaScript Frontend Framework)
 
@@ -263,4 +263,4 @@
 
 - **Teilnehmerbewertungen**:
 
-![Bewertungen für vue](graphics/vue.png)
+![Bewertungen für vue](graphic/vue.png)
