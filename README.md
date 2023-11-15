@@ -33,8 +33,4 @@ Your pull requests may include changes to the topic list and / or your personal 
 
 - Make changes to the topic list directly in [topics/README.md](topics/README.md)
 - Make changes to the ratings in [data.json](data.json)
-   - Execute the script with to keep the visualization in sync to the data
-
-   ```bash
-   python visualizer.py
-   ```
+- Execute the script with to keep the visualization in sync to the data
