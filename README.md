@@ -6,6 +6,7 @@ The script [visualizer.py](visualizer.py) generates bar charts for various topic
 ## Usage
 1. Ensure that [data.json](data.json) is in the same directory as [visualizer.py](visualizer.py). This JSON file should contain the data about topics and participants in the prescribed format.
 2. Run the script using a Python interpreter. For example:
+
    ```bash
    python visualizer.py
    ```
@@ -18,7 +19,11 @@ The script [visualizer.py](visualizer.py) generates bar charts for various topic
 
 ## Requirements
 - Python 3.x
-- Matplotlib library (Install using ```bash pip install matplotlib ```)
+- Matplotlib library
+
+   ```bash
+   pip install matplotlib
+   ```
 
 Note: This script is a simple visualization tool and does not perform any advanced data processing or statistical analysis.
 
@@ -28,4 +33,4 @@ Your pull requests may include changes to the topic list and / or your personal 
 
 - Make changes to the topic list directly in [topics/README.md](topics/README.md)
 - Make changes to the ratings in [data.json](data.json)
-   - Execute the script with ```bash python visualizer.py ``` to keep the visualization in sync to the data
+   - Execute the script with ```python visualizer.py ``` to keep the visualization in sync to the data
