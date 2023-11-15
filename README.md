@@ -29,7 +29,7 @@ Note: This script is a simple visualization tool and does not perform any advanc
 
 ## Contribute
 
-Your pull requests may include changes to the topic list and / or your personal interest and skill ratings which must include an updated version of the graphics.
+Your pull requests may include changes to the topic list and / or your personal interest and skill ratings (if you are a participant) which must include an updated version of the graphics.
 
 - Make changes to the topic list directly in [topics/README.md](topics/README.md)
 - Make changes to the ratings in [data.json](data.json)
