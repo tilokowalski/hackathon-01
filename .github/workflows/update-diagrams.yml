@@ -27,10 +27,9 @@ jobs:
       run: python .github/workflows/scripts/visualizer.py
       working-directory: ${{ github.workspace }}
 
-    - name: Commit and push updated images
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add images
-        git commit -m "Update diagram images based on new rating"
-        git push
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Update Diagram Images on Rating Change
+        file_pattern: 'images/*.png'
+        push_options: '--force'
+        skip_dirty_check: true    
