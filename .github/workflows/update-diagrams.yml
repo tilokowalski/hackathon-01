@@ -1,4 +1,4 @@
-name: Update Diagram Images on Rating Change
+name: Update Diagram Images
 
 on:
   push:

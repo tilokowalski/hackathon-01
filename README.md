@@ -11,9 +11,12 @@ Ein Pull Request kann / darf nur von Teilnehmern des Mini-Hackatons erstellt wer
 
 Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automatische Aktualisierung der Bewertungs-Grafiken mit einem GitHub Actions Workflow aus.
 
-# Themensammlung
+Aktualisierung erfolgt: ![Update Diagram Images](https://github.com/tilokowalski/mini-hackaton-01/actions/workflows/update-diagrams.yml/badge.svg)
 
-## Dapr (Ereignisgesteuerte Laufzeitumgebung)
+
+## Themensammlung
+
+### Dapr (Ereignisgesteuerte Laufzeitumgebung)
 
 - **Verwandte Komponenten und Themen**: 
   - Mikroservice-Architekturen
@@ -37,7 +40,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 ![Bewertungen für dapr](images/dapr.png)
 
-## NATS (Messaging-System)
+### NATS (Messaging-System)
 
 - **Verwandte Komponenten und Themen**: 
   - IoT (Internet of Things)
@@ -61,7 +64,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 ![Bewertungen für nats](images/nats.png)
 
-## Rust (Programmiersprache)
+### Rust (Programmiersprache)
 
 - **Verwandte Komponenten und Themen**: 
   - Systemprogrammierung
@@ -87,7 +90,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 ![Bewertungen für rust](images/rust.png)
 
-## SurrealDB (Datenbank)
+### SurrealDB (Datenbank)
 
 - **Verwandte Komponenten und Themen**: 
   - Graph-Datenbanken
@@ -111,7 +114,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 ![Bewertungen für surrealdb](images/surrealdb.png)
 
-## Zig (Programmiersprache)
+### Zig (Programmiersprache)
 
 - **Verwandte Komponenten und Themen**: 
   - Low-Level-Programmierung
@@ -134,7 +137,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 ![Bewertungen für zig](images/zig.png)
 
-## PCILeech (Memory Attack Software) für Pen Testing
+### PCILeech (Memory Attack Software) für Pen Testing
 
 - **Verwandte Komponenten und Themen**: 
   - Hardware-Sicherheit
@@ -158,7 +161,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 ![Bewertungen für pcileech](images/pcileech.png)
 
-## ATmega 16u2 Firmware entwickeln mit LUFA
+### ATmega 16u2 Firmware entwickeln mit LUFA
 
 - **Verwandte Komponenten und Themen**: 
   - Mikrocontroller-Programmierung
@@ -182,7 +185,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 ![Bewertungen für atmegalufa](images/atmegalufa.png)
 
-## Rancher (Kubernetes Management Tool)
+### Rancher (Kubernetes Management Tool)
 
 - **Verwandte Komponenten und Themen**: 
   - Kubernetes-Management
@@ -206,7 +209,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 ![Bewertungen für rancher](images/rancher.png)
 
-## React (JavaScript Frontend Framework)
+### React (JavaScript Frontend Framework)
 
 - **Verwandte Komponenten und Themen**: 
   - Frontend-Entwicklung
@@ -230,7 +233,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 ![Bewertungen für react](images/react.png)
 
-## Angular (JavaScript Frontend Framework)
+### Angular (JavaScript Frontend Framework)
 
 - **Verwandte Komponenten und Themen**: 
   - Enterprise-Webanwendungen
@@ -254,7 +257,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 ![Bewertungen für angular](images/angular.png)
 
-## Vue (JavaScript Frontend Framework)
+### Vue (JavaScript Frontend Framework)
 
 - **Verwandte Komponenten und Themen**: 
   - Progressive Web Apps (PWA)
