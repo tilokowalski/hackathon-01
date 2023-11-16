@@ -1,6 +1,6 @@
-# Privater Mini-Hackatron
+# Privater Mini-Hackathon
 
-Dieses Repository enthält eine Themensammlung für einen privaten Mini-Hackatron. Die Themen werden von den Teilnehmern in den Kategorien "Interesse" und "Skill" bewertet.
+Dieses Repository enthält eine Themensammlung für einen privaten Mini-Hackathon. Die Themen werden von den Teilnehmern in den Kategorien "Interesse" und "Skill" bewertet.
 
 ## Auswertung bearbeiten ![Update Diagram Images](https://github.com/tilokowalski/mini-hackaton-01/actions/workflows/update-diagrams.yml/badge.svg)
 
