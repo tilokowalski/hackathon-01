@@ -1,0 +1,35 @@
+name: Update Graphics on Data Change
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'data.json'
+
+jobs:
+  update-graphics:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install matplotlib
+
+    - name: Run script
+      run: python visualizer.py
+
+    - name: Commit and push updated graphics
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add topics/graphic/
+        git commit -m "Update graphics based on new data"
+        git push
