@@ -29,7 +29,7 @@
         "participants": [
             {
                 "name": "Josh",
-                "interest": 0.35,
+                "interest": 0.75,
                 "skill": 0
             },
             {
@@ -54,7 +54,7 @@
         "participants": [
             {
                 "name": "Josh",
-                "interest": 0.5,
+                "interest": 0.4,
                 "skill": 0
             },
             {
@@ -104,7 +104,7 @@
         "participants": [
             {
                 "name": "Josh",
-                "interest": 0.5,
+                "interest": 0.4,
                 "skill": 0
             },
             {
@@ -154,7 +154,7 @@
         "participants": [
             {
                 "name": "Josh",
-                "interest": 0.45,
+                "interest": 0.4,
                 "skill": 0
             },
             {
@@ -204,8 +204,8 @@
         "participants": [
             {
                 "name": "Josh",
-                "interest": 0,
-                "skill": 0
+                "interest": 0.75,
+                "skill": 0.1
             },
             {
                 "name": "Tilo",
@@ -229,8 +229,8 @@
         "participants": [
             {
                 "name": "Josh",
-                "interest": 0,
-                "skill": 0
+                "interest": 0.85,
+                "skill": 0.1
             },
             {
                 "name": "Tilo",
@@ -254,7 +254,7 @@
         "participants": [
             {
                 "name": "Josh",
-                "interest": 0,
+                "interest": 0.1,
                 "skill": 0
             },
             {
