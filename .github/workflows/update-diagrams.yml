@@ -1,14 +1,14 @@
-name: Update Graphics on Data Change
+name: Update Diagram Images on Rating Change
 
 on:
   push:
     branches:
       - master
     paths:
-      - 'data.json'
+      - 'rating.json'
 
 jobs:
-  update-graphics:
+  update-diagrams:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,12 +24,13 @@ jobs:
       run: pip install matplotlib
 
     - name: Run script
-      run: python visualizer.py
+      run: python .github/workflows/scripts/visualizer.py
+      working-directory: ${{ github.workspace }}
 
-    - name: Commit and push updated graphics
+    - name: Commit and push updated images
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add topics/graphics/
-        git commit -m "Update graphics based on new data"
+        git add images/
+        git commit -m "Update diagram images based on new rating"
         git push
