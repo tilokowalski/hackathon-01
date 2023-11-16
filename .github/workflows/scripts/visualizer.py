@@ -76,4 +76,4 @@ def create_and_save_bar_charts(data, output_dir):
 # Main execution
 if __name__ == "__main__":
     json_data = read_json_file('rating.json')
-    create_and_save_bar_charts(json_data, 'topics/graphics') # TODO Change output directory    
+    create_and_save_bar_charts(json_data, 'images')
