@@ -30,6 +30,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add topics/graphic/
+        git add topics/graphics/
         git commit -m "Update graphics based on new data"
         git push
