@@ -1,4 +1,4 @@
-# Themenauswertung für privaten Mini-Hackaton
+# Privater Mini-Hackaton
 
 Dieses Repository enthält eine Themensammlung für einen privaten Mini-Hackaton. Die Themen werden von den Teilnehmern in den Kategorien "Interesse" und "Skill" bewertet.
 
@@ -11,7 +11,7 @@ Ein Pull Request kann / darf nur von Teilnehmern des Mini-Hackatons erstellt wer
 
 Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automatische Aktualisierung der Bewertungs-Grafiken mit einem GitHub Actions Workflow aus.
 
-# Ausgewertete Themen
+# Themenauswertung
 
 ## Dapr (Ereignisgesteuerte Laufzeitumgebung)
 
