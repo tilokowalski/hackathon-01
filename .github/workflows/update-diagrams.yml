@@ -13,7 +13,9 @@ jobs:
 
     steps:
     - name: Check out repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
     - name: Set up Python
       uses: actions/setup-python@v3
@@ -27,8 +29,7 @@ jobs:
       run: python .github/workflows/scripts/visualizer.py
       working-directory: ${{ github.workspace }}
 
-    - uses: stefanzweifel/git-auto-commit-action@v5
+    - name: Commit changes
+      uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: Update Diagram Images on Rating Change
-        push_options: '--force'
-        skip_dirty_check: true    
+        commit_message: Update Diagram Images on Rating Change 
