@@ -2,7 +2,7 @@
 
 Dieses Repository enthält eine Themensammlung für einen privaten Mini-Hackaton. Die Themen werden von den Teilnehmern in den Kategorien "Interesse" und "Skill" bewertet.
 
-## Auswertung bearbeiten
+## Auswertung bearbeiten ![Update Diagram Images](https://github.com/tilokowalski/mini-hackaton-01/actions/workflows/update-diagrams.yml/badge.svg)
 
 Ein Pull Request kann / darf nur von Teilnehmern des Mini-Hackatons erstellt werden und dient der Aktualisierung der Themenliste und der Bewertungen. Folglich können Änderung an folgenden Dateien vorgenommen werden:
 
@@ -10,9 +10,6 @@ Ein Pull Request kann / darf nur von Teilnehmern des Mini-Hackatons erstellt wer
 - `ratings.json`: Aktualisierung der Bewertungen
 
 Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automatische Aktualisierung der Bewertungs-Grafiken mit einem GitHub Actions Workflow aus.
-
-Aktualisierung erfolgt: ![Update Diagram Images](https://github.com/tilokowalski/mini-hackaton-01/actions/workflows/update-diagrams.yml/badge.svg)
-
 
 ## Themensammlung
 
