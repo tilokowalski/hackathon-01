@@ -1,8 +1,9 @@
 # Privater Mini-Hackathon
+![Update Diagram Images](https://github.com/tilokowalski/mini-hackathon-01/actions/workflows/update-diagrams.yml/badge.svg)
 
 Dieses Repository enthält eine Themensammlung für einen privaten Mini-Hackathon. Die Themen werden von den Teilnehmern in den Kategorien "Interesse" und "Skill" bewertet.
 
-## Auswertung bearbeiten ![Update Diagram Images](https://github.com/tilokowalski/mini-hackathon-01/actions/workflows/update-diagrams.yml/badge.svg)
+## Auswertung bearbeiten
 
 Ein Pull Request kann / darf nur von Teilnehmern des Mini-Hackathons erstellt werden und dient der Aktualisierung der Themenliste und der Bewertungen. Folglich können Änderung an folgenden Dateien vorgenommen werden:
 
