@@ -19,10 +19,10 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 - **Beschreibung**: 
   - Die Idee ist, mit Hilfe von Spotify Daten eine analytische Platform zu erstellen, mit der Nutzer ihr Hörverhalten analysieren können
-
+  - Ein solches Projekt könnte mit einer Vielzahl der Themen, die unten gesammelt wurden, umgesetzt werden, sodass es nicht nur einen zentralisierten Fokus gibt.
 
 - **Nützliche Links / Kurze Einführung**: 
-  - [Web API | Spotify for Developers](https://developer.spotify.com/documentation/web-api)
+  - [Web API | Spotify for Developers](https://developer.spotify.com/documentation/web-api))
     
 - **Teilnehmerbewertungen**:
 
