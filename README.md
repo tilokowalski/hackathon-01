@@ -279,3 +279,17 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 - **Teilnehmerbewertungen**:
 
 ![Bewertungen für vue](images/vue.png)
+
+## Spotify Data Analytics
+
+- **Beschreibung**: 
+  - Mit Hilfe von Spotify Daten eine analytische Platform erstellen, bei der Nutzer ihr Hörverhalten analysieren können
+  - Kann mit den oben genannten Technologien implementiert werden, sodass wir uns nicht nur auf 1 Thema fokussieren
+
+
+- **Nützliche Links / Kurze Einführung**: 
+  - [Web API | Spotify for Developers](https://developer.spotify.com/documentation/web-api))
+    
+- **Teilnehmerbewertungen**:
+
+![Bewertungen für Spotify Data Analytics](images/spotify.png)
