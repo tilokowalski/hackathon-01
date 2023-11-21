@@ -13,7 +13,7 @@ Ein Pull Request kann / darf nur von Teilnehmern des Mini-Hackathons erstellt we
 
 Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automatische Aktualisierung der Bewertungs-Grafiken mit einem GitHub Actions Workflow aus.
 
-# Gebildeter Projektansatz
+# Gewählter Projektansatz
 
 ## Spotify Data Analytics Plattform
 
