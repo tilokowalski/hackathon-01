@@ -2,9 +2,9 @@
 
 ![Update Diagram Images](https://github.com/tilokowalski/mini-hackathon-01/actions/workflows/update-diagrams.yml/badge.svg)
 
-Dieses Repository enthält eine Themensammlung für einen privaten Mini-Hackathon. Die Themen werden von den Teilnehmern in den Kategorien "Interesse" und "Skill" bewertet.
+Dieses Repository dient der Themensammlung für einen privaten Mini-Hackathon. Die Themen werden von den Teilnehmern in den Kategorien "Interesse" und "Skill" bewertet, um einen möglichen Projektansatz zu erarbeiten, der innerhalb von einem Wochenende umgesetzt wird. Dazu wird eine Auswahl getroffen, welche der Themen in das Projekt integriert werden sollen.
 
-## Auswertung bearbeiten
+## Themensammlung bearbeiten
 
 Ein Pull Request kann / darf nur von Teilnehmern des Mini-Hackathons erstellt werden und dient der Aktualisierung der Themenliste und der Bewertungen. Folglich können Änderung an folgenden Dateien vorgenommen werden:
 
@@ -13,7 +13,22 @@ Ein Pull Request kann / darf nur von Teilnehmern des Mini-Hackathons erstellt we
 
 Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automatische Aktualisierung der Bewertungs-Grafiken mit einem GitHub Actions Workflow aus.
 
-# Themenauswertung
+# Gebildeter Projektansatz
+
+## Spotify Data Analytics Plattform
+
+- **Beschreibung**: 
+  - Die Idee ist, mit Hilfe von Spotify Daten eine analytische Platform zu erstellen, mit der Nutzer ihr Hörverhalten analysieren können
+
+
+- **Nützliche Links / Kurze Einführung**: 
+  - [Web API | Spotify for Developers](https://developer.spotify.com/documentation/web-api)
+    
+- **Teilnehmerbewertungen**:
+
+![Bewertungen für spotify](images/spotify.png)
+
+# Themensammlung
 
 ## Dapr (Ereignisgesteuerte Laufzeitumgebung)
 
@@ -279,17 +294,3 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 - **Teilnehmerbewertungen**:
 
 ![Bewertungen für vue](images/vue.png)
-
-## Spotify Data Analytics
-
-- **Beschreibung**: 
-  - Mit Hilfe von Spotify Daten eine analytische Platform erstellen, bei der Nutzer ihr Hörverhalten analysieren können
-  - Kann mit den oben genannten Technologien implementiert werden, sodass wir uns nicht nur auf 1 Thema fokussieren
-
-
-- **Nützliche Links / Kurze Einführung**: 
-  - [Web API | Spotify for Developers](https://developer.spotify.com/documentation/web-api))
-    
-- **Teilnehmerbewertungen**:
-
-![Bewertungen für Spotify Data Analytics](images/spotify.png)

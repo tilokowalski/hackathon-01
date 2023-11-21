@@ -284,8 +284,8 @@
             },
             {
                 "name": "Tilo",
-                "interest": 0,
-                "skill": 0
+                "interest": 1,
+                "skill": 0.45
             },
             {
                 "name": "Gero",
