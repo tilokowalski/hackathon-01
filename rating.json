@@ -219,7 +219,7 @@
             },
             {
                 "name": "Ludi",
-                "interest": 0,
+                "interest": 0.5,
                 "skill": 0
             }
         ]
@@ -244,7 +244,7 @@
             },
             {
                 "name": "Ludi",
-                "interest": 0,
+                "interest": 0.2,
                 "skill": 0
             }
         ]
@@ -269,8 +269,33 @@
             },
             {
                 "name": "Ludi",
+                "interest": 0.3,
+                "skill": 0
+            }
+        ]
+    },
+    {
+        "topic": "spotify",
+        "participants": [
+            {
+                "name": "Josh",
                 "interest": 0,
                 "skill": 0
+            },
+            {
+                "name": "Tilo",
+                "interest": 0,
+                "skill": 0
+            },
+            {
+                "name": "Gero",
+                "interest": 0,
+                "skill": 0
+            },
+            {
+                "name": "Ludi",
+                "interest": 0.95,
+                "skill": 0.6
             }
         ]
     }
