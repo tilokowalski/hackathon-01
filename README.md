@@ -61,7 +61,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 - **Teilnehmerbewertungen**:
 
-    ![Bewertungen für dapr](images/dapr.png)
+    <img alt="Bewertungen für dapr" src="images/dapr.png" width="50%">
 
 ## NATS (Messaging-System)
 
@@ -85,7 +85,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 - **Teilnehmerbewertungen**:
 
-    ![Bewertungen für nats](images/nats.png)
+    <img alt="Bewertungen für nats" src="images/nats.png" width="50%">
 
 ## Rust (Programmiersprache)
 
@@ -111,9 +111,9 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 - **Teilnehmerbewertungen**:
 
-![    Bewertungen für rust](images/rust.png)
+    <img alt="Bewertungen für rust" src="images/rust.png" width="50%">
 
-## SurrealDB (Datenbank)
+## Gewählt: SurrealDB (Datenbank)
 
 - **Verwandte Komponenten und Themen**: 
     - Graph-Datenbanken
@@ -135,7 +135,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 - **Teilnehmerbewertungen**:
 
-    ![Bewertungen für surrealdb](images/surrealdb.png)
+    <img alt="Bewertungen für surrealdb" src="images/surrealdb.png" width="50%">
 
 ## Zig (Programmiersprache)
 
@@ -158,7 +158,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 - **Teilnehmerbewertungen**:
 
-![Bewertungen     für zig](images/zig.png)
+    <img alt="Bewertungen für zig" src="images/zig.png" width="50%">
 
 ## PCILeech (Memory Attack Software) für Pen Testing
 
@@ -182,7 +182,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 - **Teilnehmerbewertungen**:
 
-    ![Bewertungen für pcileech](images/pcileech.png)
+    <img alt="Bewertungen für pcileech" src="images/pcileech.png" width="50%">
 
 ## ATmega 16u2 Firmware entwickeln mit LUFA
 
@@ -206,7 +206,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 - **Teilnehmerbewertungen**:
 
-    ![Bewertungen für atmegalufa](images/atmegalufa.png)
+    <img alt="Bewertungen für lufa" src="images/lufa.png" width="50%">
 
 ## Rancher (Kubernetes Management Tool)
 
@@ -230,9 +230,9 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 - **Teilnehmerbewertungen**:
 
-    ![Bewertungen für rancher](images/rancher.png)
+    <img alt="Bewertungen für rancher" src="images/rancher.png" width="50%">
 
-## React (JavaScript Frontend Framework)
+## Gewählt: React (JavaScript Frontend Framework)
 
 - **Verwandte Komponenten und Themen**: 
     - Frontend-Entwicklung
@@ -254,7 +254,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 - **Teilnehmerbewertungen**:
 
-![    Bewertungen für react](images/react.png)
+    <img alt="Bewertungen für react" src="images/react.png" width="50%">
 
 ## Angular (JavaScript Frontend Framework)
 
@@ -278,7 +278,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 - **Teilnehmerbewertungen**:
 
-    ![Bewertungen für angular](images/angular.png)
+    <img alt="Bewertungen für angular" src="images/angular.png" width="50%">
 
 ## Vue (JavaScript Frontend Framework)
 
@@ -302,9 +302,9 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 - **Teilnehmerbewertungen**:
 
-    ![Bewertungen für vue](images/vue.png)
+    <img alt="Bewertungen für vue" src="images/vue.png" width="50%">
 
-## Spotify Web Api
+## Gewählt: Spotify Web Api
 
 - **Beschreibung**: 
     - Die Spotify Web Api bietet die Möglichkeit ausgereifte Daten über diverse Schnittstellen zu sammeln, dazu gehören Tracks, Künstler, Alben, und co.
@@ -315,4 +315,4 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 - **Teilnehmerbewertungen**:
 
-    ![Bewertungen für spotify](images/spotify.png)
+    <img alt="Bewertungen für spotify" src="images/spotify.png" width="50%">
