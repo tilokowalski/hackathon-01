@@ -1,8 +1,13 @@
-# Privater Mini-Hackathon
+<h1 align="center">
+    Hackathon 01
+</h1>
+<p align="center">
+    <img alt="Update Diagram Images" src="https://github.com/tilokowalski/mini-hackathon-01/actions/workflows/update-diagrams.yml/badge.svg">
+</p>
 
-![Update Diagram Images](https://github.com/tilokowalski/mini-hackathon-01/actions/workflows/update-diagrams.yml/badge.svg)
-
-Dieses Repository dient der Themensammlung für einen privaten Mini-Hackathon. Die Themen werden von den Teilnehmern in den Kategorien "Interesse" und "Skill" bewertet, um einen möglichen Projektansatz zu erarbeiten, der innerhalb von einem Wochenende umgesetzt wird. Dazu wird eine Auswahl getroffen, welche der Themen in das Projekt integriert werden sollen.
+<p align="center">
+    Dieses Repository dient der Themensammlung für unseren ersten privaten Hackathon. Die Themen wurden von den Teilnehmern in den Kategorien "Interesse" und "Skill" bewertet, um einen möglichen Projektansatz zu erarbeiten, der innerhalb von einem Wochenende umgesetzt werden sollte. Dazu wurde eine Auswahl getroffen, welche der Themen in das Projekt integriert werden.
+</p>
 
 ## Themensammlung bearbeiten
 
