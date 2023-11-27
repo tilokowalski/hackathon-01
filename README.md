@@ -17,6 +17,17 @@
     <a href="https://github.com/tilokowalski/statify" target="_blank">Statify - Spotify Analytics Platform</a>
 </p>
 
+<p align="center">
+    Teilnehmer
+</p>
+
+<p align="center">
+    <a href="https://github.com/tilokowalski" target="_blank">@tilokowalski</a>
+    <a href="https://github.com/joshuamerold" target="_blank">@joshuamerold</a>
+    <a href="https://github.com/hown3d" target="_blank">@hown3d</a>
+    <a href="https://github.com/niemand-hier" target="_blank">@niemand-hier</a>
+</p>
+
 ## Themensammlung bearbeiten
 
 Ein Pull Request kann / darf nur von Teilnehmern des Mini-Hackathons erstellt werden und dient der Aktualisierung der Themenliste und der Bewertungen. Folglich können Änderung an folgenden Dateien vorgenommen werden:
