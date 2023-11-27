@@ -206,7 +206,7 @@ Ein gemergeter Pull Request mit Änderungen an `ratings.json` löst eine automat
 
 - **Teilnehmerbewertungen**:
 
-    <img alt="Bewertungen für lufa" src="images/lufa.png" width="50%">
+    <img alt="Bewertungen für atmegalufa" src="images/atmegalufa.png" width="50%">
 
 ## Rancher (Kubernetes Management Tool)
 
